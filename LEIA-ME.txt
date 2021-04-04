@@ -1,0 +1,4 @@
+Olá caro usuário ou programador, estou fazendo esse aplicativo pois AMO programar, sou Full Stack Developer, gosto muito da
+linguagem de programação Python, Csharp(C#), e batch, se quiser executar esse aplicativo, você terá que baixar um executor chama-
+do "Python", eu deixarei o arquivo na pasta "Instalador Python", mas se você tem medo baixar aplicativos de estranhos, eu 
+lhe entendo completamente, esse é o site oficial do instalador ----> https://www.python.org/
