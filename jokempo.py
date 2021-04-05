@@ -1,6 +1,7 @@
 from random import randint
 from time import sleep
 
+print('Seja bem vindo ao jogo Jokempô, ele foi feito pelo iMoust#5883, e não se esqueça de entrar neste site https://github.com/iMoust7')
 def comeco():
     itens = ('Pedra', 'Papel', 'Tesoura')
     computador = randint(1,3)
@@ -11,9 +12,8 @@ def comeco():
     jogador = int(input('Qual sua jogada?: '))
     if jogador <= 3:
         print()
-
     else:
-        print('\nEscreva corretamente')
+        print('Escreva corretamente')
         comeco()
 
     print('JO')
@@ -76,7 +76,7 @@ def comeco():
         comeco()
 
     def sair():
-        loop = int(input('''\n[1] - Continuar a jogar
+        loop = int(input('''[1] - Continuar a jogar
 [2] - Sair
 Escreva aqui: '''))
 
