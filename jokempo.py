@@ -1,7 +1,7 @@
 from random import randint
 from time import sleep
 
-print('Seja bem vindo ao jogo Jokempô, ele foi feito pelo iMoust#5883, e não se esqueça de entrar neste site https://github.com/iMoust7')
+print('Seja bem vindo ao jogo Jokempô, ele foi feito pelo iMoust#0808, e não se esqueça de entrar neste site https://github.com/iMoust7')
 def comeco():
     itens = ('Pedra', 'Papel', 'Tesoura')
     computador = randint(1,3)
