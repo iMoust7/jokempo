@@ -84,7 +84,7 @@ Escreva aqui: '''))
             comeco()
 
         elif loop == 2:
-            print('Espero vê-lo novamente')
+            print('\nEspero vê-lo novamente\nFechando...')
 
         else:
             print('Escreva corretamente')
