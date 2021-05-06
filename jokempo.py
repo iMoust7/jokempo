@@ -84,10 +84,13 @@ Escreva aqui: '''))
             comeco()
 
         elif loop == 2:
-            print('\nEspero vê-lo novamente\nFechando...')
+			print('\nEspero vê-lo novamente\nFechando...')
+			sleep(5)
+			exit()
 
         else:
             print('Escreva corretamente')
+
             sair()
     sair()
 comeco()
